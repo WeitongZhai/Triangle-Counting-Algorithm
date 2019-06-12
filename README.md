@@ -1,5 +1,14 @@
 # Triangle-Counting-Algorithm
+
 This is an triangle counting algorithm based on C. 
+
+To build this program, I referred wang-zhq’s code. After studying it, I wrote my own code by myself. He used the matrix computing, which is very hard to understand. My work is totally different with him. 
+
+Reference:
+[1] wang-zhq(2018) triangle_count [open source code]. https://github.com/wang-zhq/triangle_count
+
+
+
 Considering that input the graph is too slow and limited. We proposed out algorithm design.   
  0	1
  
